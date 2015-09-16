@@ -1,24 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:43.842810
+#+DATE: 2015-08-30 20:34:44.256484
 #+TITLE: 佛說呪時氣病經
 #+PROPERTY: CBETA_ID T21n1326
 #+PROPERTY: ID KR6j0557
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1326
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6j0557_T_000-0491a>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0557_T_001-0491a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1326¶
-
- 佛說呪時氣病經¶
+No. 1326¶
+佛說呪時氣病經東晉西域三藏竺曇無蘭譯¶
 ¶
 
 南無佛南無法南無比丘僧。南無過去七佛¶
-南無現在諸佛南無未來諸佛。南無諸佛弟¶
+南無現在諸佛南無諸佛。南無諸佛弟¶
 子。令我所呪即從如願。¶
 
 阿佉尼尼佉尼阿佉耶尼佉尼阿毘羅慢多利¶
