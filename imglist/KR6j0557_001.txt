@@ -1,0 +1,2 @@
+001-0491a00	TKD 13-1151a	buddhist/K-koreana/13-tif/1100-1199/13_1151_A.TIF
+001-0491a11	TKD 13-1151b	buddhist/K-koreana/13-tif/1100-1199/13_1151_B.TIF
